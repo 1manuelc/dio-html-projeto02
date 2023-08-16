@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.82 118.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008761;
+      }
+
+      .cls-2 {
+        fill: #36e39e;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="IDV_HealClinic" data-name="IDV HealClinic">
+    <g id="S">
+      <g>
+        <rect class="cls-1" x="32.32" y="24.2" width="24.19" height="69.75"/>
+        <path class="cls-2" d="M56.5,7.52V24.2H0V0H48.99c4.15,0,7.51,3.37,7.51,7.52Z"/>
+      </g>
+      <path class="cls-2" d="M88.82,93.95v24.19H39.83c-4.15,0-7.51-3.36-7.51-7.51v-16.68h56.5Z"/>
+    </g>
+  </g>
+</svg>

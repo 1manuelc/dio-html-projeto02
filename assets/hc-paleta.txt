@@ -1,0 +1,13 @@
+Verde Primário
+HEX: #00C57A
+
+Verde Shade
+HEX: #008761
+
+Verde Tint
+HEX: #36E39E
+
+Verde Tinter
+HEX: #70E2BE
+
+Fonte: Aileron
