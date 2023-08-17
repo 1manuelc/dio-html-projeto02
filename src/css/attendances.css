@@ -44,7 +44,7 @@ body {
 
 	font-size: 1.8rem;
 	background-color: #fff;
-	box-shadow: -8px 0 12px -10px rgba(0, 0, 0, 0.5) inset;
+	box-shadow: -8px 0 12px -10px rgba(0,0,0,0.5) inset;	
 
 	display: flex;
 	flex-flow: column;
@@ -78,7 +78,7 @@ li.link a:hover {
 }
 
 .header {
-	height: 15%;
+	height: 12rem;
 	color: #000;
 
 	display: flex;
@@ -100,7 +100,8 @@ li.link a:hover {
 	padding: 6rem;
 
 	display: flex;
-	flex-flow: column;
+	flex-flow: column wrap;
+	justify-content: center;
 	align-items: center;
 	gap: 2rem;
 
@@ -108,7 +109,7 @@ li.link a:hover {
 }
 
 .footer {
-	height: 15%;
+	height: 8%;
 	padding: 2rem;
 	padding-left: 5rem;
 
