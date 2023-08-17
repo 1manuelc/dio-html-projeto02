@@ -78,7 +78,7 @@ li.link a:hover {
 }
 
 .header {
-	height: 12rem;
+	height: 13%;
 	color: #000;
 
 	display: flex;
@@ -96,7 +96,7 @@ li.link a:hover {
 }
 
 .content {
-	height: 70%;
+	height: 77%;
 	padding: 6rem;
 
 	display: flex;
@@ -109,7 +109,7 @@ li.link a:hover {
 }
 
 .footer {
-	height: 8%;
+	height: 10%;
 	padding: 2rem;
 	padding-left: 5rem;
 
