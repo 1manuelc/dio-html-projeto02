@@ -1,3 +1,5 @@
+# [Deploy atualizado](https://1manuelc.github.io/dio-html-projeto02/index.html)
+
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
